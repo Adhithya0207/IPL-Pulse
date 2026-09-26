@@ -1,0 +1,167 @@
+team,opponent,team_id,opponent_id,matches,won,lost,no_result
+Mumbai Indians,Delhi Capitals,mi,dc,38,21,17,0
+Mumbai Indians,Sunrisers Hyderabad,mi,srh,26,15,11,0
+Mumbai Indians,Chennai Super Kings,mi,csk,41,21,20,0
+Sunrisers Hyderabad,Lucknow Super Giants,srh,lsg,7,2,5,0
+Gujarat Titans,Chennai Super Kings,gt,csk,10,6,4,0
+Punjab Kings,Deccan Chargers,pbks,deccan,10,7,3,0
+Pune Warriors,Deccan Chargers,pwi,deccan,4,1,3,0
+Gujarat Lions,Royal Challengers Bengaluru,gl,rcb,5,2,3,0
+Kolkata Knight Riders,Royal Challengers Bengaluru,kkr,rcb,36,20,16,0
+Delhi Capitals,Gujarat Lions,dc,gl,4,3,1,0
+Chennai Super Kings,Royal Challengers Bengaluru,csk,rcb,35,21,14,0
+Chennai Super Kings,Rajasthan Royals,csk,rr,32,16,16,0
+Lucknow Super Giants,Delhi Capitals,lsg,dc,8,3,5,0
+Gujarat Titans,Delhi Capitals,gt,dc,8,5,3,0
+Gujarat Titans,Kolkata Knight Riders,gt,kkr,6,4,2,0
+Royal Challengers Bengaluru,Lucknow Super Giants,rcb,lsg,8,5,3,0
+Chennai Super Kings,Pune Warriors,csk,pwi,6,4,2,0
+Pune Warriors,Rajasthan Royals,pwi,rr,5,1,4,0
+Gujarat Lions,Sunrisers Hyderabad,gl,srh,5,0,5,0
+Delhi Capitals,Mumbai Indians,dc,mi,38,17,21,0
+Delhi Capitals,Punjab Kings,dc,pbks,37,18,18,1
+Gujarat Titans,Punjab Kings,gt,pbks,8,4,4,0
+Gujarat Titans,Royal Challengers Bengaluru,gt,rcb,10,4,6,0
+Kochi Tuskers Kerala,Deccan Chargers,ktk,deccan,1,0,1,0
+Sunrisers Hyderabad,Kolkata Knight Riders,srh,kkr,32,11,21,0
+Sunrisers Hyderabad,Rising Pune Supergiants,srh,rps,4,1,3,0
+Royal Challengers Bengaluru,Mumbai Indians,rcb,mi,36,17,19,0
+Rising Pune Supergiants,Sunrisers Hyderabad,rps,srh,4,3,1,0
+Chennai Super Kings,Delhi Capitals,csk,dc,33,21,12,0
+Delhi Capitals,Gujarat Titans,dc,gt,8,3,5,0
+Lucknow Super Giants,Rajasthan Royals,lsg,rr,8,2,6,0
+Kolkata Knight Riders,Lucknow Super Giants,kkr,lsg,8,3,5,0
+Lucknow Super Giants,Sunrisers Hyderabad,lsg,srh,7,5,2,0
+Chennai Super Kings,Lucknow Super Giants,csk,lsg,8,3,4,1
+Lucknow Super Giants,Kolkata Knight Riders,lsg,kkr,8,5,3,0
+Deccan Chargers,Kolkata Knight Riders,deccan,kkr,9,2,7,0
+Kochi Tuskers Kerala,Pune Warriors,ktk,pwi,1,0,1,0
+Kochi Tuskers Kerala,Mumbai Indians,ktk,mi,1,1,0,0
+Pune Warriors,Chennai Super Kings,pwi,csk,6,2,4,0
+Delhi Capitals,Kochi Tuskers Kerala,dc,ktk,2,1,1,0
+Gujarat Lions,Rising Pune Supergiants,gl,rps,4,3,1,0
+Rajasthan Royals,Mumbai Indians,rr,mi,32,16,16,0
+Punjab Kings,Lucknow Super Giants,pbks,lsg,8,5,3,0
+Gujarat Titans,Mumbai Indians,gt,mi,9,5,4,0
+Kochi Tuskers Kerala,Royal Challengers Bengaluru,ktk,rcb,2,0,2,0
+Deccan Chargers,Pune Warriors,deccan,pwi,4,3,1,0
+Sunrisers Hyderabad,Pune Warriors,srh,pwi,2,2,0,0
+Pune Warriors,Kochi Tuskers Kerala,pwi,ktk,1,1,0,0
+Gujarat Lions,Punjab Kings,gl,pbks,4,2,2,0
+Punjab Kings,Rajasthan Royals,pbks,rr,31,13,18,0
+Royal Challengers Bengaluru,Gujarat Titans,rcb,gt,10,6,4,0
+Delhi Capitals,Deccan Chargers,dc,deccan,11,7,4,0
+Royal Challengers Bengaluru,Deccan Chargers,rcb,deccan,11,5,6,0
+Pune Warriors,Punjab Kings,pwi,pbks,6,3,3,0
+Chennai Super Kings,Mumbai Indians,csk,mi,41,20,21,0
+Chennai Super Kings,Kolkata Knight Riders,csk,kkr,32,21,11,0
+Sunrisers Hyderabad,Royal Challengers Bengaluru,srh,rcb,27,15,12,0
+Punjab Kings,Chennai Super Kings,pbks,csk,33,17,16,0
+Deccan Chargers,Chennai Super Kings,deccan,csk,10,4,6,0
+Mumbai Indians,Deccan Chargers,mi,deccan,10,6,4,0
+Royal Challengers Bengaluru,Kochi Tuskers Kerala,rcb,ktk,2,2,0,0
+Kochi Tuskers Kerala,Kolkata Knight Riders,ktk,kkr,2,2,0,0
+Kolkata Knight Riders,Gujarat Lions,kkr,gl,4,1,3,0
+Sunrisers Hyderabad,Mumbai Indians,srh,mi,26,11,15,0
+Sunrisers Hyderabad,Punjab Kings,srh,pbks,26,18,8,0
+Kolkata Knight Riders,Rajasthan Royals,kkr,rr,31,17,14,0
+Rajasthan Royals,Chennai Super Kings,rr,csk,32,16,16,0
+Lucknow Super Giants,Mumbai Indians,lsg,mi,9,6,3,0
+Kolkata Knight Riders,Kochi Tuskers Kerala,kkr,ktk,2,0,2,0
+Pune Warriors,Sunrisers Hyderabad,pwi,srh,2,0,2,0
+Gujarat Lions,Mumbai Indians,gl,mi,4,2,2,0
+Rising Pune Supergiants,Royal Challengers Bengaluru,rps,rcb,4,2,2,0
+Mumbai Indians,Punjab Kings,mi,pbks,36,18,18,0
+Mumbai Indians,Gujarat Lions,mi,gl,4,2,2,0
+Gujarat Lions,Delhi Capitals,gl,dc,4,1,3,0
+Royal Challengers Bengaluru,Delhi Capitals,rcb,dc,35,21,13,1
+Sunrisers Hyderabad,Rajasthan Royals,srh,rr,24,14,10,0
+Sunrisers Hyderabad,Chennai Super Kings,srh,csk,24,9,15,0
+Rajasthan Royals,Punjab Kings,rr,pbks,31,18,13,0
+Sunrisers Hyderabad,Gujarat Titans,srh,gt,7,1,6,0
+Kolkata Knight Riders,Mumbai Indians,kkr,mi,37,12,25,0
+Kolkata Knight Riders,Sunrisers Hyderabad,kkr,srh,32,21,11,0
+Kolkata Knight Riders,Chennai Super Kings,kkr,csk,32,11,21,0
+Rajasthan Royals,Kolkata Knight Riders,rr,kkr,31,14,17,0
+Mumbai Indians,Rajasthan Royals,mi,rr,32,16,16,0
+Punjab Kings,Pune Warriors,pbks,pwi,6,3,3,0
+Kochi Tuskers Kerala,Rajasthan Royals,ktk,rr,2,1,1,0
+Pune Warriors,Royal Challengers Bengaluru,pwi,rcb,5,0,5,0
+Kochi Tuskers Kerala,Delhi Capitals,ktk,dc,2,1,1,0
+Pune Warriors,Delhi Capitals,pwi,dc,6,2,3,1
+Pune Warriors,Kolkata Knight Riders,pwi,kkr,5,1,4,0
+Kochi Tuskers Kerala,Punjab Kings,ktk,pbks,1,0,1,0
+Royal Challengers Bengaluru,Gujarat Lions,rcb,gl,5,3,2,0
+Delhi Capitals,Chennai Super Kings,dc,csk,33,12,21,0
+Gujarat Titans,Lucknow Super Giants,gt,lsg,8,5,3,0
+Royal Challengers Bengaluru,Pune Warriors,rcb,pwi,5,5,0,0
+Royal Challengers Bengaluru,Sunrisers Hyderabad,rcb,srh,27,12,15,0
+Rising Pune Supergiants,Mumbai Indians,rps,mi,6,4,2,0
+Kolkata Knight Riders,Rising Pune Supergiants,kkr,rps,4,3,1,0
+Punjab Kings,Royal Challengers Bengaluru,pbks,rcb,38,18,20,0
+Rising Pune Supergiants,Delhi Capitals,rps,dc,4,2,2,0
+Chennai Super Kings,Punjab Kings,csk,pbks,33,16,17,0
+Chennai Super Kings,Sunrisers Hyderabad,csk,srh,24,15,9,0
+Rajasthan Royals,Gujarat Titans,rr,gt,11,3,8,0
+Lucknow Super Giants,Royal Challengers Bengaluru,lsg,rcb,8,3,5,0
+Gujarat Titans,Sunrisers Hyderabad,gt,srh,7,6,1,0
+Delhi Capitals,Lucknow Super Giants,dc,lsg,8,5,3,0
+Lucknow Super Giants,Gujarat Titans,lsg,gt,8,3,5,0
+Chennai Super Kings,Gujarat Titans,csk,gt,10,4,6,0
+Deccan Chargers,Mumbai Indians,deccan,mi,10,4,6,0
+Deccan Chargers,Delhi Capitals,deccan,dc,11,4,7,0
+Pune Warriors,Mumbai Indians,pwi,mi,6,1,5,0
+Delhi Capitals,Rising Pune Supergiants,dc,rps,4,2,2,0
+Mumbai Indians,Royal Challengers Bengaluru,mi,rcb,36,19,17,0
+Kolkata Knight Riders,Delhi Capitals,kkr,dc,36,20,16,0
+Punjab Kings,Gujarat Lions,pbks,gl,4,2,2,0
+Royal Challengers Bengaluru,Kolkata Knight Riders,rcb,kkr,36,16,20,0
+Mumbai Indians,Kolkata Knight Riders,mi,kkr,37,25,12,0
+Punjab Kings,Rising Pune Supergiants,pbks,rps,4,2,2,0
+Rajasthan Royals,Sunrisers Hyderabad,rr,srh,24,10,14,0
+Royal Challengers Bengaluru,Chennai Super Kings,rcb,csk,35,14,21,0
+Lucknow Super Giants,Chennai Super Kings,lsg,csk,8,4,3,1
+Mumbai Indians,Lucknow Super Giants,mi,lsg,9,3,6,0
+Punjab Kings,Gujarat Titans,pbks,gt,8,4,4,0
+Rajasthan Royals,Kochi Tuskers Kerala,rr,ktk,2,1,1,0
+Punjab Kings,Kolkata Knight Riders,pbks,kkr,36,13,21,2
+Punjab Kings,Delhi Capitals,pbks,dc,37,18,18,1
+Gujarat Lions,Kolkata Knight Riders,gl,kkr,4,3,1,0
+Sunrisers Hyderabad,Delhi Capitals,srh,dc,27,14,12,1
+Rising Pune Supergiants,Kolkata Knight Riders,rps,kkr,4,1,3,0
+Kolkata Knight Riders,Punjab Kings,kkr,pbks,36,21,13,2
+Royal Challengers Bengaluru,Rajasthan Royals,rcb,rr,34,17,15,2
+Rajasthan Royals,Royal Challengers Bengaluru,rr,rcb,34,15,17,2
+Rajasthan Royals,Lucknow Super Giants,rr,lsg,8,6,2,0
+Mumbai Indians,Gujarat Titans,mi,gt,9,4,5,0
+Deccan Chargers,Punjab Kings,deccan,pbks,10,3,7,0
+Chennai Super Kings,Deccan Chargers,csk,deccan,10,6,4,0
+Mumbai Indians,Pune Warriors,mi,pwi,6,5,1,0
+Kochi Tuskers Kerala,Chennai Super Kings,ktk,csk,2,1,1,0
+Mumbai Indians,Kochi Tuskers Kerala,mi,ktk,1,0,1,0
+Mumbai Indians,Rising Pune Supergiants,mi,rps,6,2,4,0
+Rising Pune Supergiants,Punjab Kings,rps,pbks,4,2,2,0
+Royal Challengers Bengaluru,Punjab Kings,rcb,pbks,38,20,18,0
+Delhi Capitals,Sunrisers Hyderabad,dc,srh,27,12,14,1
+Royal Challengers Bengaluru,Rising Pune Supergiants,rcb,rps,4,2,2,0
+Lucknow Super Giants,Punjab Kings,lsg,pbks,8,3,5,0
+Deccan Chargers,Rajasthan Royals,deccan,rr,9,2,7,0
+Kolkata Knight Riders,Deccan Chargers,kkr,deccan,9,7,2,0
+Deccan Chargers,Royal Challengers Bengaluru,deccan,rcb,11,6,5,0
+Delhi Capitals,Royal Challengers Bengaluru,dc,rcb,35,13,21,1
+Rising Pune Supergiants,Gujarat Lions,rps,gl,4,1,3,0
+Punjab Kings,Sunrisers Hyderabad,pbks,srh,26,8,18,0
+Delhi Capitals,Kolkata Knight Riders,dc,kkr,36,16,20,0
+Punjab Kings,Mumbai Indians,pbks,mi,36,18,18,0
+Sunrisers Hyderabad,Gujarat Lions,srh,gl,5,5,0,0
+Delhi Capitals,Rajasthan Royals,dc,rr,32,17,15,0
+Rajasthan Royals,Delhi Capitals,rr,dc,32,15,17,0
+Kolkata Knight Riders,Gujarat Titans,kkr,gt,6,2,4,0
+Gujarat Titans,Rajasthan Royals,gt,rr,11,8,3,0
+Rajasthan Royals,Deccan Chargers,rr,deccan,9,7,2,0
+Delhi Capitals,Pune Warriors,dc,pwi,6,3,2,1
+Chennai Super Kings,Kochi Tuskers Kerala,csk,ktk,2,1,1,0
+Deccan Chargers,Kochi Tuskers Kerala,deccan,ktk,1,1,0,0
+Punjab Kings,Kochi Tuskers Kerala,pbks,ktk,1,1,0,0
+Kolkata Knight Riders,Pune Warriors,kkr,pwi,5,4,1,0
+Rajasthan Royals,Pune Warriors,rr,pwi,5,4,1,0
